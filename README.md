@@ -1,5 +1,4 @@
-# php-11-PDO
-## Шпоргалка по PDO
+# Шпаргалка
 Подключение к БД
 ```php
 $db = new PDO('mysql:host=localhost;dbname=filmoteka', 'root', '');
